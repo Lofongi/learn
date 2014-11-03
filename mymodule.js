@@ -51,3 +51,17 @@ solution_filter.js:
       })
     }
 */
+/*
+? Submission results match expected
+? Additional module file exports a single function
+? Additional module file exports a function that takes 3 arguments
+? Additional module file handles errors properly
+? Additional module file handles callback argument
+? Additional module file returned two arguments on the callback function
+? Additional module file returned Array as second argument of the callback
+? Additional module file returned correct number of elements as the second argum
+ent of the callback
+? Additional module file returned correct list of files as the second argument o
+f the callback
+
+*/
